@@ -1,4 +1,7 @@
 # Yutong-Sun
 This is the webpage for Yutong Sun.
 
-![image](./image/WechatIMG2.jpeg=100x200)
+img[src*="#w80"] {width: 80%;}
+
+![Yutong Sun](./image/WechatIMG2.jpeg#w80)
+
